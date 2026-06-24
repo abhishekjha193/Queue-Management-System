@@ -211,6 +211,8 @@ NODE_ENV=development
 - Update `CLIENT_URL` in backend env and `vite.config.js` proxy target accordingly
 
 ---
+Live Link : https://queue001.vercel.app
+---
 
 ## 👤 Build by
 
