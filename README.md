@@ -1,4 +1,4 @@
-# 🏥 Queue Cure '26
+# 🏥 Queue System
 
 > **Replace paper tokens with real-time digital waiting.**
 > Built for the Queue Cure '26 Hackathon — a live clinic queue system that updates instantly across all screens.
