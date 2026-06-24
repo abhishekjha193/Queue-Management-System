@@ -1,0 +1,1 @@
+2026-06-24 14:46:21 [[31merror[39m]: Unhandled Promise Rejection: E11000 duplicate key error collection: test.clinics index: email_1 dup key: { email: "abhishek@gmail.com" }
