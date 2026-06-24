@@ -168,20 +168,6 @@ The estimate **adapts throughout the day** — if the doctor runs fast, wait tim
 
 ---
 
-## 🎨 Design Decisions
-
-**Dark teal on slate** — clinical precision without sterile whiteness. The teal-500 accent (#14b8a6) provides the "live" urgency feel without alarm-red anxiety.
-
-**Font mono for tokens** — JetBrains Mono makes token numbers (#42, #7) instantly scannable from across a waiting room.
-
-**Framer Motion** — entrance animations on queue rows mean receptionists can see at a glance which patient just joined.
-
-**Loading screen** — patients see a smooth boot experience with a real progress bar, not a blank white flash.
-
-**Glass morphism cards** — `bg-slate-900/60 backdrop-blur` layers depth without visual noise.
-
----
-
 ## 🔧 Environment Variables
 
 ```env
@@ -226,9 +212,8 @@ NODE_ENV=development
 
 ---
 
-## 👤 Submitted by
+## 👤 Build by
 
-Built for **Queue Cure '26** — Wooble Hackathon
-Submission includes: Live prototype · GitHub repo · Socket event diagram · Thought process sheet
+Abhishek Jha
 
 > *"The moment a clinic owner sees token #12 disappear from the waiting screen the instant the receptionist clicks Call Next — that's the moment they say: I want this."*
