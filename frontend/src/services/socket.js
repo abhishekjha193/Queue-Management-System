@@ -4,13 +4,16 @@ let socket = null;
 
 export const initSocket = () => {
   if (!socket) {
-    socket = io(window.location.origin.replace(":5173", ":5000"), {
-      transports: ["websocket", "polling"],
-      reconnection: true,
-      reconnectionAttempts: Infinity,
-      reconnectionDelay: 1000,
-      reconnectionDelayMax: 5000,
-    });
+    socket = io(
+      "https://queue-management-system-jan0.onrender.com",
+      {
+        transports: ["websocket", "polling"],
+        reconnection: true,
+        reconnectionAttempts: Infinity,
+        reconnectionDelay: 1000,
+        reconnectionDelayMax: 5000,
+      }
+    );
   }
   return socket;
 };
