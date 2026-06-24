@@ -5,3 +5,15 @@
 2026-06-24 14:48:22 [[32minfo[39m]: MongoDB Connected: ac-fsgr1rb-shard-00-02.6mogk2d.mongodb.net
 2026-06-24 14:48:22 [[32minfo[39m]: Queue Cure server running on port 5000 [development]
 2026-06-24 14:48:22 [[32minfo[39m]: Client URL: http://localhost:5173
+2026-06-24 14:49:18 [[32minfo[39m]: New clinic registered: Jha Clinics
+2026-06-24 14:49:31 [[32minfo[39m]: Patient added: satyam jha, Token: 1, Clinic: Jha Clinics
+2026-06-24 14:49:43 [[32minfo[39m]: Patient added: nitish gupta, Token: 2, Clinic: Jha Clinics
+2026-06-24 14:49:57 [[32minfo[39m]: Patient added: shivam gupta, Token: 3, Clinic: Jha Clinics
+2026-06-24 14:50:09 [[32minfo[39m]: Patient added: Sharukh mishra, Token: 4, Clinic: Jha Clinics
+2026-06-24 14:50:19 [[32minfo[39m]: Patient added: salmaan narayan, Token: 5, Clinic: Jha Clinics
+2026-06-24 14:50:33 [[32minfo[39m]: Patient added: deepak khan, Token: 6, Clinic: Jha Clinics
+2026-06-24 14:50:41 [[32minfo[39m]: Token #1 called: satyam jha
+2026-06-24 14:51:44 [[32minfo[39m]: Token #2 called: nitish gupta
+2026-06-24 14:51:58 [[32minfo[39m]: Token #3 called: shivam gupta
+2026-06-24 14:52:24 [[32minfo[39m]: Token #4 skipped: Sharukh mishra
+2026-06-24 14:52:30 [[32minfo[39m]: Token #5 called: salmaan narayan
